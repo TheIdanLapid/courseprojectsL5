@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\2b7bd5de" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Users\Eon\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Eon\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Eon\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_PrimesCalculator5.4.-1131605151.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PrimesCalculator5.4" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PrimesCalculator5.4.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+      </e>
+      <e p="PrimesCalculator5.4.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
