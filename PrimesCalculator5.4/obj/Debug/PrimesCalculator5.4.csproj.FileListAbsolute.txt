@@ -1,0 +1,14 @@
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\bin\Debug\PrimesCalculator5._4.exe.config
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\bin\Debug\PrimesCalculator5._4.exe
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\bin\Debug\PrimesCalculator5._4.pdb
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5.4.csprojResolveAssemblyReference.cache
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\MainWindow.g.cs
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\App.g.cs
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5._4_MarkupCompile.cache
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5._4_MarkupCompile.lref
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\MainWindow.baml
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5._4.g.resources
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5._4.Properties.Resources.resources
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5.4.csproj.GenerateResource.Cache
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5._4.exe
+C:\Users\Eon\Desktop\Pavels Class\L5\PrimesCalculator5.4\PrimesCalculator5.4\obj\Debug\PrimesCalculator5._4.pdb
